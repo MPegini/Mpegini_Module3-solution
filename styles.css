@@ -1,0 +1,39 @@
+.main-title {
+    font-weight: bold;
+    text-align: center;
+    margin: 50px;
+}
+
+body {
+    background-color: lightgray;
+}
+
+.main {
+    background-color: gray;
+    margin: 10px;
+}
+
+.main-subtitle {
+    text-align: center;
+}
+
+.main-text {
+    text-align: center;
+    padding: 25px;
+}
+
+@include media-breakpoint-up(md) { 
+
+    
+}
+
+@include media-breakpoint-up(lg) { 
+
+    
+    
+ }
+
+@include media-breakpoint-up(xl) { 
+    
+    
+}
